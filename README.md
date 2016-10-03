@@ -15,4 +15,4 @@ Optional:
 
     timesToSend -- how often the email is going to be sent (0= 1 email)
   
-    timeToWait  -- how long the server is going to wait between sending the emails
+    timeToWait  -- how long the server is going to wait between sending the emails (seconds)
